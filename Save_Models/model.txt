@@ -1,1 +1,3 @@
-
+the model size is too big so this the a drive link of the pre trained models
+link:
+https://drive.google.com/drive/folders/15M6r0wPZhYU3nzDCwWxpGgaU7sD88DRs?usp=sharing
